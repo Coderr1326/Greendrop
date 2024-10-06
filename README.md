@@ -1,2 +1,2 @@
 # greendrop
-this is an community for farmers
+this is an community for farmer
