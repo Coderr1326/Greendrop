@@ -1,20 +1,12 @@
 {
   "name": "community-page",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "A simple JavaScript project",
+  "main": "server.js",
   "scripts": {
-    "dev": "node server.js",
-    "build":"npm i"
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "cookie-parser": "^1.4.6",
-    "express": "^4.21.0",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.7.0"
+    "lodash": "^4.17.21"
   }
 }
